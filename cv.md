@@ -13,11 +13,12 @@ Degree information: Graduate (master)
 
 **I get some good experience from education sites like:**
 
-- Codewars.com:
-  [my codewars profile](https://www.codewars.com/users/whitekvazar)
+1. Codewars.com:
 
-- Htmlacademy.ru:
-  [my htmlacademy profile](https://htmlacademy.ru/profile/whitekvazar)
+   - [my codewars profile](https://www.codewars.com/users/whitekvazar)
+
+2. Htmlacademy.ru:
+   - [my htmlacademy profile](https://htmlacademy.ru/profile/whitekvazar)
 
 I have some skills at CSS, HTML and JS. I know basics of Java, C/C++ and OOP.
 
