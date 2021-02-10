@@ -6,18 +6,15 @@
 
 ### Summary
 
-My goal is to become professional front-end developer with strong hard and soft skills. I wish to work in great team and develop powerful features.
-I like learning things. I always was a good student in university and I’m really good at finding and using information. I live in Minsk, but I’m ready to move.
+My goal is to become professional front-end developer with strong hard and soft skills. I wish to work in great team and develop powerful features.  
+I like learning things. I always was a good student in university and I’m really good at finding and using information. I live in Minsk, but I’m ready to move.  
 I am currently open to an employer and looking for a Junior Frontend Developer position or Internship program.
 
 ### Education
 
-Educational establishment: Belarusian State University of Informatics and Radioelectronics (BSUIR).
-
-Faculty: Faculty of Computer Systems and Networks
-
-Department: Electronic computing machines
-
+Educational establishment: Belarusian State University of Informatics and Radioelectronics (BSUIR).  
+Faculty: Faculty of Computer Systems and Networks  
+Department: Electronic computing machines  
 Degree information: Graduate (Master)
 
 ### Skills
