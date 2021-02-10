@@ -13,8 +13,11 @@ I am currently open to an employer and looking for a Junior Frontend Developer p
 ### Education
 
 Educational establishment: Belarusian State University of Informatics and Radioelectronics (BSUIR).
+
 Faculty: Faculty of Computer Systems and Networks
+
 Department: Electronic computing machines
+
 Degree information: Graduate (Master)
 
 ### Skills
