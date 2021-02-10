@@ -2,12 +2,11 @@
 
 ### Contact info
 
-**Mobile phone number:** _+375257585175_ **Email:** _whitekvazar@gmail_ **Telegram:** _@sadSaund_
+**Mobile phone number:** _+375257585175_ **Email:** _whitekvazar@gmail_ **Telegram:** _@sadSaund_ **City** _Minsk_
 
 ### Summary
 
-My goal is to become professional front-end developer with strong hard and soft skills. I wish to work in great team and develop powerful features.  
-I like learning things. I always was a good student in university and I’m really good at finding and using information. I live in Minsk, but I’m ready to move.  
+My goal is to become professional front-end developer with strong hard and soft skills. I wish to work in great team and develop powerful features. I like learning things. I always was a good student in university and I’m really good at finding and using information.
 I am currently open to an employer and looking for a Junior Frontend Developer position or Internship program.
 
 ### Education
