@@ -1,28 +1,47 @@
 ## Kirill Romanovskii
 
+### Contact info
+
 **Mobile phone number:** _+375257585175_ **Email:** _whitekvazar@gmail_ **Telegram:** _@sadSaund_
 
-**My goal** is to become professional front-end developer. I wish to work in great team and develop powerful features.
-I like learning things. I always was a good student in university and I’m really good at finding and using information. I was born and live in Minsk, but I’m ready to move.
+### Summary
 
-**I have some good dev. experience from my university:**
-Educational establishment: Belarusian State University of Informatics and Radioelectronics.
+My goal is to become professional front-end developer with strong hard and soft skills. I wish to work in great team and develop powerful features.
+I like learning things. I always was a good student in university and I’m really good at finding and using information. I live in Minsk, but I’m ready to move.
+I am currently open to an employer and looking for a Junior Frontend Developer position or Internship program.
+
+### Education
+
+Educational establishment: Belarusian State University of Informatics and Radioelectronics (BSUIR).
 Faculty: Faculty of Computer Systems and Networks
 Department: Electronic computing machines
-Degree information: Graduate (master)
+Degree information: Graduate (Master)
 
-**I get some good experience from education sites like:**
+### Skills
 
-1. Codewars.com:
+JavaScript, ES6
+HTML5, CSS3
+Figma
+Git
+Node.js
+Java basics
+C/C++ basics
 
-   - [my codewars profile](https://www.codewars.com/users/whitekvazar)
+### Work experience
 
-2. Htmlacademy.ru:
-   - [my htmlacademy profile](https://htmlacademy.ru/profile/whitekvazar)
+1. I get good dev. experience from my university.
 
-I have some skills at CSS, HTML and JS. I know basics of Java, C/C++ and OOP.
+2. Codewars.com:
 
-Code example:
+- [my codewars profile](https://www.codewars.com/users/whitekvazar)
+
+3. Htmlacademy.ru:
+
+- [my htmlacademy profile](https://htmlacademy.ru/profile/whitekvazar)
+
+4. I provide technical and technological advice to users on the operation of the software
+
+**Code example:**
 
 ```
 /* The main idea is to count all the occurring characters in a string. If you have a
@@ -39,4 +58,7 @@ function count (string) {
 }
 ```
 
-**My English level** is pre-intermediate. And it is intermediate in some cases for example in reading and listening. I’ve been taking private lessons since May 2019 and I watch films and TV series in English.
+### Languages
+
+- Russian - native speaker
+- English (B1) - I’ve been taking private lessons since May 2019.
