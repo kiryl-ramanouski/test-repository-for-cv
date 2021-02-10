@@ -19,13 +19,13 @@ Degree information: Graduate (Master)
 
 ### Skills
 
-JavaScript, ES6
-HTML5, CSS3
-Figma
-Git
-Node.js
-Java basics
-C/C++ basics
+- JavaScript, ES6
+- HTML5, CSS3
+- Figma
+- Git
+- Node.js
+- Java basics
+- C/C++ basics
 
 ### Work experience
 
@@ -33,11 +33,11 @@ C/C++ basics
 
 2. Codewars.com:
 
-- [my codewars profile](https://www.codewars.com/users/whitekvazar)
+   - [my codewars profile](https://www.codewars.com/users/whitekvazar)
 
 3. Htmlacademy.ru:
 
-- [my htmlacademy profile](https://htmlacademy.ru/profile/whitekvazar)
+   - [my htmlacademy profile](https://htmlacademy.ru/profile/whitekvazar)
 
 4. I provide technical and technological advice to users on the operation of the software
 
