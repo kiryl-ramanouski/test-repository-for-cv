@@ -33,13 +33,15 @@ Degree information: Graduate (Master)
 
 2. Codewars.com:
 
-   - [my codewars profile](https://www.codewars.com/users/whitekvazar)
+   - [Сodewars profile](https://www.codewars.com/users/whitekvazar)
 
 3. Htmlacademy.ru:
 
-   - [my htmlacademy profile](https://htmlacademy.ru/profile/whitekvazar)
+   - [Htmlacademy profile](https://htmlacademy.ru/profile/whitekvazar)
 
-4. I provide technical and technological advice to users on the operation of the software
+4. I worked in Visma-Planar on Senior specialist position until february 2021. I provided technical and technological advices to colleagues on the operation of the software.
+
+5. [Github profile:](https://github.com/whitekvazar)
 
 **Code example:**
 
