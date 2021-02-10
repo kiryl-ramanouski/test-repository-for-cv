@@ -39,7 +39,7 @@ Degree information: Graduate (Master)
 
    - [Htmlacademy profile](https://htmlacademy.ru/profile/whitekvazar)
 
-4. I worked in Visma-Planar on Senior specialist position until february 2021. I provided technical and technological advices to colleagues on the operation of the software.
+4. I worked in Visma-Planar as a Senior specialist until february 2021. I provided technical and technological advice to colleagues on softwate operation
 
 5. [Github profile:](https://github.com/whitekvazar)
 
