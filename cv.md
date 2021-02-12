@@ -28,17 +28,17 @@ Degree information: Graduate (Master)
 
 ### Work experience
 
-1. I get good dev. experience from my university.
+1. I worked in Visma-Planar as a Senior specialist until february 2021. I provided technical and technological advice to colleagues on softwate operation
 
-2. Codewars.com:
+2. I get good dev. experience from my university.
+
+3. Codewars.com:
 
    - [Сodewars profile](https://www.codewars.com/users/whitekvazar)
 
-3. Htmlacademy.ru:
+4. Htmlacademy.ru:
 
    - [Htmlacademy profile](https://htmlacademy.ru/profile/whitekvazar)
-
-4. I worked in Visma-Planar as a Senior specialist until february 2021. I provided technical and technological advice to colleagues on softwate operation
 
 5. Github.com:
 
